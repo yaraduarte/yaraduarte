@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaraduarte
 - 👀 I’m interested in process automation and data science.
-- 🌱 I’m currently learning JavaScript and SQL.
+- 🌱 I’m currently learning JavaScript.
 - 📫 Email: yaralauritoduarte@gmail.com
 
 <!---
