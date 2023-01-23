@@ -1,4 +1,4 @@
-# Olá! Seja bem vindo ao meu portfolio!
+# Olá! Seja bem vindo!
 
 Muito prazer, me chamo Yara Duarte, tenho 26 anos, sou nascida em Resende - RJ e sou estudante de Engenharia de Produção pelo CEFET-RJ. 
 
