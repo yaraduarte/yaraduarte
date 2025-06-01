@@ -1,6 +1,10 @@
 # Olá! Seja bem vindo!
 
-Desenvolvedora fullstack em uma squad com stack em Node.js e React.js. No meu dia a dia, lido com bancos de dados, APIs REST e GraphQL, aplico fundamentos de programação como estruturas de dados e programação orientada a objetos (OOP), utilizo controle de versão, ambientes de desenvolvimento e testes. 
+👩🏾‍💻 Backend Developer | Apaixonada por tecnologia e por transformar problemas em soluções.
+Trabalho com Node.js, JavaScript e .NET, aplicando princípios de Clean Architecture, SOLID e boas práticas de desenvolvimento.
+Experiência com APIs REST, GraphQL, banco de dados SQL e NoSQL, testes, eventos, filas, serviços AWS, serverless e CI/CD.
+
+Sempre aprendendo, construindo e colaborando!
 
 ## Aqui estão meus contatos:
 
